@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "category": "EyeMakeUp",
+    "image": "../src/assets/img/Eye-makeup/Eye-liner1.jpeg",
+    "name": "Black-Eye-liner",
+    "price": "$35.99"
+  },
+  {
+    "id": 2,
+    "category": "EyeMakeUp",
+    "image": "../src/assets/img/Eye-makeup/eye.liner 2.jpeg",
+    "name": "BC-Eye-liner",
+    "price": "$25.99"
+  },
+  {
+    "id": 3,
+    "category": "EyeMakeUp",
+    "image": "../src/assets/img/Eye-makeup/shadow.jpeg",
+    "name": "MM.Shadow.",
+    "price": "$19.99"
+  },
+
+  {
+    "id": 4,
+    "category": "Foundation",
+    "image": "../src/assets/img/foundation/foundation.jpeg",
+    "name": "cc-face2",
+    "price": "$30.99"
+  },
+  {
+    "id": 5,
+    "category": "Foundation",
+    "image": "../src/assets/img/foundation/foundation1.jpeg",
+    "name": "BB-face",
+    "price": "$60.99"
+  },
+
+  {
+    "id": 6,
+    "category": "Foundation",
+    "image": "../src/assets/img/foundation/cc-foundation.webp",
+    "name": "cc-face1",
+    "price": "$60.99"
+  },
+  {
+    "id": 7,
+    "category": "concealer",
+    "image": "../src/assets/img/concealer/concealer.jpeg",
+    "name": "Lee-Concealer",
+    "price": "$19.99"
+  },
+  {
+    "id": 8,
+    "category": "Mascara",
+    "image": "../src/assets/img/Eye-makeup/mascara1.jpeg",
+    "name": "NN.mascara",
+    "price": "$20.99"
+  },
+  {
+    "id": 9,
+    "category": "Powder",
+    "image": "../src/assets/img/foundation/powder.jpeg",
+    "name": "Safe-face",
+    "price": "$60.99"
+  },
+  {
+    "id": 10,
+    "category": "Mascara",
+    "image": "../src/assets/img/Eye-makeup/mascra3.jpeg",
+    "name": "Safe-face",
+    "price": "$60.99"
+  },
+  {
+    "id": 11,
+    "category": "LipGloss",
+    "image": "../src/assets/img/Lip-gloss/lipgloss-1.jpeg",
+    "name": "Fit-me",
+    "price": "$19.99"
+  },
+  {
+    "id": 12,
+    "category": "LipGloss",
+    "image": "../src/assets/img/Lip-gloss/lip-gloss.jpeg",
+    "name": "Maybline",
+    "price": "$19.99"
+  },
+  {
+    "id": 13,
+    "category": "LipGloss",
+    "image": "../src/assets/img/Lip-gloss/lipgloss1.jpeg",
+    "name": "NYX lipgloss",
+    "price": "$19.99"
+  },
+  {
+    "id": 14,
+    "category": "Shadow",
+    "image": "../src/assets/img/Eye-makeup/shadow12.jpeg",
+    "name": "NYX ",
+    "price": "$19.99"
+  },
+  {
+    "id": 15,
+    "category": "Shadow",
+    "image": "../src/assets/img/Eye-makeup/swati shadow.jpeg",
+    "name": "swati shadow",
+    "price": "$19.99"
+  },
+  {
+    "id": 16,
+    "category": "LipGloss",
+    "image": "../src/assets/img/Lip-gloss/lipgloss-1.jpeg",
+    "name": "Fit-me2",
+    "price": "$19.99"
+  }
+]
