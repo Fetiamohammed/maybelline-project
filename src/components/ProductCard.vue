@@ -22,14 +22,16 @@
       </ul>
     </div>
   </div>
-  <!-- the modal that shows the product on the cart needs some correction -->
-  <ShowModal />
+  <!-- the modal that shows the product on the cart needs some correction
+<ShowModal :product="" />
+  -->
+
   <router-view />
 </template>
 
 <script>
 import { RouterLink, RouterView } from "vue-router";
-import ShowModal from "../components/ShowModal.vue";
+//import ShowModal from "../components/ShowModal.vue";
 export default {
   props: {
     product: {
@@ -40,7 +42,7 @@ export default {
   components: {
     RouterLink,
     RouterView,
-    ShowModal,
+    // ShowModal,
   },
   data() {
     return {

@@ -159,6 +159,11 @@
       >
         Close
       </button>
+      <!--<div class="#" v-if="basketMessage">
+        <h5>
+          the product is added to the basket
+        </h5>
+      </div>-->
     </div>
   </div>
 </template>
@@ -172,6 +177,7 @@ export default {
       selectedCategory: null,
       products: [],
       basket: [],
+      //basketMessage:false,
     };
   },
   // fetching the product with axios .
@@ -205,6 +211,7 @@ export default {
   methods: {
     addToBasket(product) {
       this.basket.push(product);
+      //this.basketMessage:true;
       alert("You added the product to the basket");
     },
   },
