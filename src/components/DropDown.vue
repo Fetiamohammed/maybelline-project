@@ -7,14 +7,16 @@
   <div class="btn-dropbox">
     <div class="Box">
       <button @click="selectedCategory = 'EyeMakeUp'" class="Dropp" id="Eye">
-        Click to see <br> Eye MakeUp
+        Click to see <br />
+        Eye MakeUp
       </button>
       <button
         @click="selectedCategory = 'Foundation'"
         class="Dropp"
         style="background-color: #ebb67c"
       >
-      Click to see <br> Foundation
+        Click to see <br />
+        Foundation
       </button>
       <button
         @click="selectedCategory = 'Mascara'"
@@ -22,7 +24,8 @@
         id="Mas"
         style="background-color: #ede4e0"
       >
-      Click to see<br> Mascara
+        Click to see<br />
+        Mascara
       </button>
       <button
         @click="selectedCategory = 'LipGloss'"
@@ -30,7 +33,8 @@
         id="lip"
         style="background-color: #ffd4d4"
       >
-      Click to see <br> LipGloss
+        Click to see <br />
+        LipGloss
       </button>
       <button
         @click="selectedCategory = 'Powder'"
@@ -38,7 +42,8 @@
         id="pow"
         style="background-color: #eddbc7"
       >
-      Click to see<br> Powder
+        Click to see<br />
+        Powder
       </button>
     </div>
 
